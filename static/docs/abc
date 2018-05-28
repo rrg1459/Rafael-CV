@@ -1,7 +1,7 @@
 git checkout -b gh-pages
 
 git add -A
-git commit -m "pdf y contactame"
+git commit -m "se quita merge que se quedo por error"
 git push -u origin gh-pages
 
 
