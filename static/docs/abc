@@ -1,0 +1,7 @@
+git checkout -b gh-pages
+
+git add -A
+git commit -m "pdf y contactame"
+git push -u origin gh-pages
+
+
